@@ -5,6 +5,7 @@
 
 [Website](https://www.flockrush.com/grid) | [View Docs](https://github.com/FlockrushGrid/docs) | [Join Discord](https://discord.gg/your-invite-code)
 
+![flockrush-og](https://github.com/user-attachments/assets/fad49409-d4c8-4921-9a5f-d759aa3226ca)
 
 Flockrush Grid is not a "copilot" and not "human-in-the-loop." It is a complete, self-sustaining OS designed for autonomous operations.
 
